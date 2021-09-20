@@ -1,0 +1,29 @@
+.container {
+  max-width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.feeds {
+  width: 200px;
+}
+
+.feed {
+  border: 2px solid black;
+}
+
+.articles {
+  width: 400px;
+}
+
+.article {
+  border: 2px solid black;
+}
+
+.mainDisplay {
+  width: 100%;
+}
+
+.display {
+  border: 2px solid black;
+}
